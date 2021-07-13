@@ -1,5 +1,10 @@
 import { Component } from '@angular/core';
 
+/*
+expression interpolation - {{ numberOne + numberTwo }}
+ternary expression - {{ isHappy ? ':)' : ':(' }}
+*/
+
 @Component({
   selector: 'app-root',
   styleUrls: ['app.component.scss'],
