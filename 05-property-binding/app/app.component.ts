@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 
+/*input - shows one way binding, {{name}} will not be updated on input change*/
+
 @Component({
   selector: 'app-root',
   styleUrls: ['app.component.scss'],
